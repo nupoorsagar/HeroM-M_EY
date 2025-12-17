@@ -18,6 +18,8 @@ Why is there a need to address this problem??????
 
 Nature of Output: Web-based dashboard for service centers & OEM teamsm , Voice chatbot + web/mobile interface for vehicle owners, Real-time alerts, scheduling, diagnostics, and quality insights
 
+<img width="1114" height="618" alt="image" src="https://github.com/user-attachments/assets/be84fc5f-de9a-48ab-a343-a011ea73a1ae" />
+
 
 #Service Center Dashboard:
 
@@ -38,7 +40,11 @@ Predictive insights showing emerging patterns and cost optimization opportunitie
 Early warning system detecting issues 14 days vs traditional 120 days
 
 #Vehicle Owner App
+
 Mobile Interface Features:
+
+<img width="278" height="190" alt="image" src="https://github.com/user-attachments/assets/0adc4326-c5bd-4162-8637-1d0f5d44e9cc" />
+
 
 1. Dashboard Tab:
 
@@ -69,4 +75,6 @@ Proactive notifications: AI initiates conversation about battery health
 Quick action buttons: Schedule service, get details, find locations, talk to human
 Natural language: "Hi Sarah, your Honda Civic's battery health has declined to 68%..."
 Smart scheduling: Considers user calendar and preferences
+
+ <img width="267" height="694" alt="image" src="https://github.com/user-attachments/assets/b387a8c7-74c8-43c8-ad81-efcb2cc0d0a5" />
 
